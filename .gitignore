@@ -1,0 +1,39 @@
+# python compiled files
+*.pyc
+
+# vim swaps
+*.swp
+*~
+
+# sublime
+*.sublime-project
+*.sublime-workspace
+
+# ms project files
+sieaf-manager.sln
+*.sdf
+*.user
+*.opensdf
+*.suo
+*.aps
+
+# build file
+*.ilk
+*.pdb
+*.exe.config
+*.exp
+*.metagen
+bin/
+Debug/
+Release/
+toolkit_pro/
+
+# qa odt lock
+.~lock.*
+
+# misc 
+doc/API/
+/build/
+deps/
+!/deps/Makefile
+*.db
